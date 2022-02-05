@@ -40,30 +40,306 @@ Assignments include a written essay, a paper critique, two class presentations, 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Written essay | 10% |
-| Paper critique | 10% |
-| Midterm | 10% |
-| Two class presentations (15% each) | 30% |
-| Term paper | 30% |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written essay
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper critique
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two class presentations (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to fMRI and high-level vision | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Functional organization of the ventral visual pathway {{< br >}}{{< br >}} Controversies concerning this organization {{< br >}}{{< br >}} FMRI design/methods {{< br >}}{{< br >}} How to critique an fMRI paper {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 2 – 4 page essay due at the beginning of class {{< br >}}{{< br >}} (Essay details: Read Talbot, Margaret. "[Duped](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_talbot)." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Visual recognition, object shape, and the lateral occipital complex (LOC) {{< br >}}{{< br >}} How to do a presentation {{< br >}}{{< br >}} Basic neuroanatomy of the visual system {{< br >}}{{< br >}}  | Written critique of an fMRI paper due at the beginning of class |
-| 4 |  {{< br >}}{{< br >}} Scene perception and the PPA {{< br >}}{{< br >}} Class presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Face processing and the FFA {{< br >}}{{< br >}} Class presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Visual attention {{< br >}}{{< br >}} Class presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Visual awareness {{< br >}}{{< br >}} Class presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | The dorsal/parietal pathway: visual attention, visually guided action and number including visually guided action, number, attention, response selection, etc. | Term paper outline due in class |
-| 9 | In second half of class (if we don't get to this topic earlier): classification methods, brain reading | Midterm |
-| 10 | Development and effects of experience on visual and extrastriate cortex | &nbsp; |
-| 11 | Student presentations | Project presentations and discussion |
-| 12 | Student presentations (cont.) | Project presentations and discussion |
-| 13 |  {{< br >}}{{< br >}} In class we will have one or more guest lectures, e.g.: {{< br >}}{{< br >}} *   Evelina Fedorenko, on Neuroimaging of Language{{< br >}}*   Rebecca Saxe, on Neuroimaging of Theory of Mind{{< br >}}*   Basic MR Physics (if you are interested) {{< br >}}{{< br >}}  | Final term papers due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to fMRI and high-level vision
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Functional organization of the ventral visual pathway
+
+Controversies concerning this organization
+
+FMRI design/methods
+
+How to critique an fMRI paper
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2 – 4 page essay due at the beginning of class
+
+(Essay details: Read Talbot, Margaret. "[Duped](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_talbot)." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visual recognition, object shape, and the lateral occipital complex (LOC)
+
+How to do a presentation
+
+Basic neuroanatomy of the visual system
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Written critique of an fMRI paper due at the beginning of class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Scene perception and the PPA
+
+Class presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Face processing and the FFA
+
+Class presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visual attention
+
+Class presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visual awareness
+
+Class presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The dorsal/parietal pathway: visual attention, visually guided action and number including visually guided action, number, attention, response selection, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+Term paper outline due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+In second half of class (if we don't get to this topic earlier): classification methods, brain reading
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Development and effects of experience on visual and extrastriate cortex
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations and discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations and discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In class we will have one or more guest lectures, e.g.:
+
+*   Evelina Fedorenko, on Neuroimaging of Language
+*   Rebecca Saxe, on Neuroimaging of Theory of Mind
+*   Basic MR Physics (if you are interested)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final term papers due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
