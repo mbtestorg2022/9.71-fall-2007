@@ -4,6 +4,7 @@ description: Lecture presentation on the effects of experience on visual and ext
   cortex.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-71-functional-mri-of-high-level-vision-fall-2007/8b14ff753ba0567d4e08b74d2662aedf_lec10_exper.pdf
 file_type: application/pdf
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: Effect of Experience on Extrastriate Cortex
 uid: 8b14ff75-3ba0-567d-4e08-b74d2662aedf

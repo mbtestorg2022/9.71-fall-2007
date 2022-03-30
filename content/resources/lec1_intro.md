@@ -6,6 +6,7 @@ description: Lecture presentation on functional magnetic resonance imaging (fMRI
   design, localization of function, and high-level vision.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-71-functional-mri-of-high-level-vision-fall-2007/484d80b0eddc696e1d6386342cd9df0e_lec1_intro.pdf
 file_type: application/pdf
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: fMRI of High-level Vision
 uid: 484d80b0-eddc-696e-1d63-86342cd9df0e
